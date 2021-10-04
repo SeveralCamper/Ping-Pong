@@ -64,7 +64,7 @@ void step() {
             }
 
             if (ballX+1 ==76 && ballY == rightPen) {
-                ballDirX *= - 1;
+                ballDirX *= -1;
                 ballDirY *= 0;
             }
 
